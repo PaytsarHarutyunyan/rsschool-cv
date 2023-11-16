@@ -37,3 +37,16 @@ console.log(lastToFirst('loop'));  // Output: pool
 ### Course Project: CarEra
 - Developed a CarEra application using React.
 - Source Code: [GitHub Repo](https://github.com/RubenKarapetyann/carera)
+
+## Education
+- Bachelor of Economics - Finance, Modern University for the Humanities in Moscow (2010 - 2015)
+- Master of Science - Finance, International Scientific - Educational Center of the National Academy of Sciences RA (2015 - 2017)
+- Online Courses:
+  - BAC Accounting Company: Advanced accounting course with AS accounting system training
+  - EPAM Systems: JavaScript for beginners
+  - EPAM Systems: React course
+  - ACA(Armenian Code Academy): JavaScript advanced course
+  - ACA(Armenian Code Academy): React course
+
+## English Proficiency
+I have consistently practiced English for the past few years, engaging in various online courses, extensively reading technical documentation, and actively participating in English-speaking communities.
