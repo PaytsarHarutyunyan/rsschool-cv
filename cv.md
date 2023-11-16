@@ -18,3 +18,13 @@ and continuously improving my professional skills.
 - Version Control: Git, GitHub, GitLab
 - Tools: VS Code, Figma, Postman, Android Studio
 - Other: IT Fundamentals, TypeScript, HTML, CSS, SASS
+
+## Code Examples
+
+function lastToFirst(str:string): string {
+  return str.split("").reverse().join("");
+}
+
+console.log(lastToFirst('loop'));  // Output: pool
+//console.log(lastToFirst('ab')); // Output: ba
+//console.log(lastToFirst('a')); // Output: a
