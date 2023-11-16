@@ -28,3 +28,12 @@ function lastToFirst(str:string): string {
 console.log(lastToFirst('loop'));  // Output: pool
 //console.log(lastToFirst('ab')); // Output: ba
 //console.log(lastToFirst('a')); // Output: a
+
+## Experience
+### Project: Wise wallet
+- Developed a Wise wallet application using React Native.
+- Source Code: [GitHub Repo](https://github.com/ramgrigoryan/wwSmall)
+
+### Course Project: CarEra
+- Developed a CarEra application using React.
+- Source Code: [GitHub Repo](https://github.com/RubenKarapetyann/carera)
