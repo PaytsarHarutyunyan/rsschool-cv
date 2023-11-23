@@ -1,1 +1,1 @@
-[cv. markdown link](https://PaytsarHarutyunyan.github.io/rsschool-cv/)
+[CV. HTML, CSS & Git Basics link](https://PaytsarHarutyunyan.github.io/rsschool-cv/)
