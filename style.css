@@ -12,3 +12,112 @@
 section, header {
     padding: 40px 0;
 }
+
+button {
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+h1, h2, h3, h4 {
+    margin-bottom: 10px;
+}
+
+span {
+    display: block;
+    font-weight: 100;
+    color: #777;
+    font-size: 15px;
+}
+
+.personal {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_title {
+    width: 40%;
+    margin-top: -10px;
+}
+
+.personal_info {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.personal_info li {
+    list-style-type: square;
+}
+
+.img-container {
+    width: 20%;
+}
+
+.img-container img{
+    width: 100%;
+}
+
+.education, .experience, .skills, .english_proficiency, .code_example {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section_info {
+    width: 83%;
+}
+
+.section_info-item-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section_info-item p {
+    width: 60%;
+}
+
+.section_info-item {
+    margin-bottom: 20px;
+    border-left: 1px solid rgb(119, 119, 119);
+    padding-left: 50px;
+}
+
+.section_info-item a {
+    color: rgb(119, 119, 119);
+}
+
+.personal_info span, a {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.personal_info a {
+    color: rgb(119, 119, 119);
+    cursor: pointer;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(119, 119, 119);
+    font-size: 20px;
+}
+
+.footer a {
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.logo_rs {
+    width: 90px;
+    height: 30px;
+}
+
+code {
+    display: block; 
+    margin: -25px 0 0 -300px;
+    font-family: 'Courier New', monospace;
+    color: rgb(51, 51, 51);
+}
